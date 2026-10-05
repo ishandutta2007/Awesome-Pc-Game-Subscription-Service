@@ -56,9 +56,9 @@ Below is a detailed comparison of major PC game subscription services and commer
 
 Open-source alternatives in PC game subscription focus on **self-hosted game streaming**, **remote cloud deployments**, and **multi-store library unification**. 
 
-The repositories below are sorted by **GitHub Star Count (Descending)**. Each star count badge links directly to the project's stargazers page:
+The repositories below are sorted by **GitHub Stars_Count (Descending)**. Each Stars_Count badge links directly to the project's stargazers page:
 
-| Repository | Description & Ecosystem Role | License 📜 | GitHub Stars ⭐ |
+| Repository | Description & Ecosystem Role | License 📜 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- | :--- |
 | **[LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)** | **Self-Hosted Game Streaming Host** — The leading open-source host for NVIDIA, AMD, and Intel GPUs. Hardware-accelerated NVENC/AMF encoding alternative to GeForce Now. 🌟 | `GPL-3.0` | [![Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=social&color=white)](https://github.com/LizardByte/Sunshine/stargazers) |
 | **[moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)** | **Low-Latency Game Streaming Client** — Cross-platform client for Sunshine and NVIDIA GameStream supporting 4K HDR, high FPS on PC, mobile, and TV. 📱💻 | `GPL-3.0` | [![Stars](https://img.shields.io/github/stars/moonlight-stream/moonlight-qt?style=social&color=white)](https://github.com/moonlight-stream/moonlight-qt/stargazers) |
